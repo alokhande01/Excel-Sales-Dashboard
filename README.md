@@ -1,6 +1,6 @@
 # 📊 Excel Dashboard Overview
 
-![Excel Dashboard Screenshot](main/Excel%20Sales%20Dashboard.png)
+![Excel Dashboard Screenshot](Excel%20Sales%20Dashboard.png)
 
 ## 🧾 Project Summary
 This project contains a **business performance dashboard** designed in Microsoft Excel to visualize key operational and sales metrics.  
